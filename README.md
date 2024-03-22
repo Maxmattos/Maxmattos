@@ -1,4 +1,4 @@
-Olá!! Sou a Max Lui de Souza Mattos ⚔️
+Olá!! Sou Max Lui de Souza Mattos ⚔️
 
 Mineiro, 26 anos, casado. Graduado em Ciência da Computação, Cursando MBA em Data Science e Analytics pela USP. Atuo como Data Engineer, iniciando a carreira como BI e posteriormente Analytics Engineer.
 
